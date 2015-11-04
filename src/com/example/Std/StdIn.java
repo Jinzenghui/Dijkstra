@@ -185,9 +185,6 @@ public final class StdIn {
 		StdOut.print("Type an double: ");
 		double c = StdIn.readDouble();
 		StdOut.println("Your int was: " + c);
-		StdOut.println();
-		
-		
+		StdOut.println();	
 	}
-	
 }

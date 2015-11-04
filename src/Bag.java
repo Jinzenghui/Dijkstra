@@ -64,10 +64,6 @@ public class Bag<Item> implements Iterable<Item> {
 			Item item = current.item;
 			current = current.next;
 			return item;
-		}
-		
-		
+		}		
 	}
-	
-
 }
